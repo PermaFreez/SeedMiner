@@ -1,0 +1,10 @@
+name: SeedMinerTool
+version: 1.0
+main: me.permafreez.Main
+authors: [PermaFreez]
+api-version: 1.18
+description: 'Seed miner tool by.: PermaFreez'
+commands:
+   save:
+      description: 'Saves your terrain into a file. You have to stand on an iron block to use it.'
+      usage: /<command> x1;y1;z1 x2;y2;z2
